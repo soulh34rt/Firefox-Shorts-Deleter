@@ -1,6 +1,6 @@
 # Shorts Deleter
 
-Extensión de Firefox para eliminar los Shorts de la interfaz de YouTube.
+Delete those pesky shorts!
 
 ## Descripción
 
